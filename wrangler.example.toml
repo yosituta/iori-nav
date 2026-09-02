@@ -19,16 +19,16 @@ command = "npm run build:css"
 [[d1_databases]]
 binding = "NAV_DB"
 database_name = "book"
-database_id = "PASTE_YOUR_D1_DATABASE_ID_HERE"
+database_id = "c59ce124-e065-4b83-8855-97a7a5100974"
 
 [[kv_namespaces]]
 binding = "NAV_AUTH"
-id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
+id = "8a11499a44c74e08a1030411508665ec"
 
 [vars]
 ENABLE_PUBLIC_SUBMISSION = false
-SITE_NAME = "灰色轨迹"
-SITE_DESCRIPTION = "一个优雅、快速、易于部署的书签（网址）收藏与分享平台，完全基于 Cloudflare 全家桶构建"
+SITE_NAME = "万佛朝宗"
+SITE_DESCRIPTION = "全方位网页收藏"
 FOOTER_TEXT = "曾梦想仗剑走天涯"
 ICON_API = "https://faviconsnap.com/api/favicon?url="
 AI_REQUEST_DELAY = "1500"
